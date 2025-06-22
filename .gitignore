@@ -39,3 +39,6 @@ out/
 ### MAC ###
 .DS_Store
 
+# application 환경설정 파일 무시
+src/main/resources/application-*.yml
+
